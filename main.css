@@ -177,8 +177,8 @@ caption{
 
 .pic{
    /* background-color: rgb(104, 87, 100);*/
-   background-image:linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.1)),url(c4.jpg);
-   
+   background-image:linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.1)),url(a1.jpg);
+   background-attachment: fixed;
 }
 img {
     
