@@ -92,6 +92,7 @@ h1{
 
 
 
+
  .first{
     color:white;
     text-transform: uppercase;
@@ -115,7 +116,7 @@ h1{
     margin: 30px;
     background: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.8));
     border: 1px solid black;
-    
+    list-style:none;
     outline-offset: 15px;
 }
 .second{color:white;
